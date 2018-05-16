@@ -36,7 +36,7 @@
 
         let paragraph = document.getElementById("paragraph");
         // inject text, can use innerText or textContent(all browser can use)
-        paragraph.textContent = "We will be changing the content of this paragraph throughout the semester.";
+        // paragraph.textContent = "We will be changing the content of this paragraph throughout the semester.";
 
         let mySentence = "Here is my sentence.";
         paragraph.textContent = mySentence;
